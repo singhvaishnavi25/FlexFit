@@ -6,8 +6,8 @@
 					<p id="93ed1197-a051-4b76-b165-06a3959f90ff" class="">SDLC Components : Designing, Technical Planning, Developing &amp; Testing</p>
 </div><div>
 	<p id="93ed1197-a051-4b76-b165-06a3959f90ff" class="">Figma File (Android) : <a href="https://www.figma.com/file/g4JCU0PX8AHskJM61nGA97/FlexFit-Mobile-App-(Android)?node-id=0%3A1&t=x30rFNDP9TfeN9zx-0">Figma File</a></p>
-		<p id="93ed1197-a051-4b76-b165-06a3959f90ff" class="">Planning : <a href="https://furtive-wood-f20.notion.site/Semester-4-Project-2943120fa02642c18498c99071eaf68c">Click Here</a></p>
-		<p id="93ed1197-a051-4b76-b165-06a3959f90ff" class="">Assets : <a href="https://furtive-wood-f20.notion.site/fc8cb4275a2e486d9cc8d1bdacc95dad?v=9603b1f382ea44c6b01d97c73a2ce01a">Click Here</a></p>
+<!-- 		<p id="93ed1197-a051-4b76-b165-06a3959f90ff" class="">Planning : <a href="https://furtive-wood-f20.notion.site/Semester-4-Project-2943120fa02642c18498c99071eaf68c">Click Here</a></p>
+		<p id="93ed1197-a051-4b76-b165-06a3959f90ff" class="">Assets : <a href="https://furtive-wood-f20.notion.site/fc8cb4275a2e486d9cc8d1bdacc95dad?v=9603b1f382ea44c6b01d97c73a2ce01a">Click Here</a></p> -->
 				</div>
 
 <div id="3e1927f5-fb95-4783-aacd-02277abda632" style="width:75%" class="column">
